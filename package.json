@@ -1,0 +1,20 @@
+{
+  "name": "poo-class-dur",
+  "version": "1.0.0",
+  "description": "CLI",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cli"
+  ],
+  "bin": {
+    "tron": "./bin/index.js"
+  },
+  "author": "Joff",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
